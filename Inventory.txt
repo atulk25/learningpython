@@ -1,0 +1,4 @@
+Carpet 100 190.10
+Table 20 25.99
+Lamp 17 5.99
+TVStand 5 50.00
